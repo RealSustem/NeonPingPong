@@ -1,4 +1,4 @@
-name: Build .aab
+name: Build NeonPingPong AAB
 
 on:
   push:
